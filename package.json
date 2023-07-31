@@ -1,5 +1,5 @@
 {
-  "name": "cineminha",
+  "name": "cronos",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/basicpavan/cinemin.git"
+    "url": "git+https://github.com/basicpavan/api-cronos.git"
   },
   "author": "guxta",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/basicpavan/cinemin/issues"
+    "url": "https://github.com/basicpavan/api-cronos/issues"
   },
-  "homepage": "https://github.com/basicpavan/cinemin#readme",
+  "homepage": "https://github.com/basicpavan/api-cronos#readme",
   "dependencies": {
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",

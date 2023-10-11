@@ -1,1 +1,1 @@
-# api-cronos
+<b> incompleto. </b>
